@@ -1,5 +1,5 @@
 {
-    "name": "merge-api/merge-ats-php",
+    "name": "teenhire/merge-ats-php",
     "version": "1.0.2",
     "description": "The unified API for building rich integrations with multiple Applicant Tracking System platforms.",
     "keywords": [
@@ -24,7 +24,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0 || ^9.0",
